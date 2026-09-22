@@ -1,0 +1,13 @@
+# ninja log v7
+6	66	8117824803320139	lab01/lab01.1/CMakeFiles/lab01.1.dir/src/main.c.obj	69a8a5196ad181e0
+14	73	8117824803392689	lab01/lab01.2/CMakeFiles/lab01.2.dir/src/main.c.obj	73a874248d3a1b8c
+67	301	8117824803931638	C:/Users/maxym/source/repos/c_1k_1s/out/build/dist/bin/lab01.1.exe	60c09cb946f5858b
+74	308	8117824803996746	C:/Users/maxym/source/repos/c_1k_1s/out/build/dist/bin/lab01.2.exe	7bf32f33f185a8d8
+33	275	8117827375135840	lab01/lab01.2/CMakeFiles/lab01.2.dir/src/main.c.obj	73a874248d3a1b8c
+276	493	8117827377571886	C:/Users/maxym/source/repos/c_1k_1s/out/build/dist/bin/lab01.2.exe	7bf32f33f185a8d8
+6	67	8117828187647985	lab01/lab01.2/CMakeFiles/lab01.2.dir/src/main.c.obj	73a874248d3a1b8c
+68	217	8117828188269280	C:/Users/maxym/source/repos/c_1k_1s/out/build/dist/bin/lab01.2.exe	7bf32f33f185a8d8
+25	86	8117828342062540	lab01/lab01.2/CMakeFiles/lab01.2.dir/src/main.c.obj	73a874248d3a1b8c
+87	219	8117828342678332	C:/Users/maxym/source/repos/c_1k_1s/out/build/dist/bin/lab01.2.exe	7bf32f33f185a8d8
+6	64	8117829989949318	lab01/lab01.2/CMakeFiles/lab01.2.dir/src/main.c.obj	73a874248d3a1b8c
+64	203	8117829990520152	C:/Users/maxym/source/repos/c_1k_1s/out/build/dist/bin/lab01.2.exe	7bf32f33f185a8d8

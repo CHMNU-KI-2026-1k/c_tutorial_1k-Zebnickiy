@@ -1,52 +1,36 @@
-# Prerequisites
-*.d
+cmake-build-*/
+.cmake/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+.idea/
+*.iws
+*.iml
+*.ipr
 
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
 *.exe
 *.out
 *.app
-*.i*86
-*.x86_64
-*.hex
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
 
-# Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
+core
+vgcore.*
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+*.log
+.DS_Store
+Thumbs.db

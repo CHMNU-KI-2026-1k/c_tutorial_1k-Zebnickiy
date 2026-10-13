@@ -21,6 +21,8 @@ int main()
         return 1;
     }
 
+	printf("Normalize %lf %lf %lf\n", a, b, c);
+
     if (fabs(a - b) < 1e-3 && fabs(a - c) < 1e-3 && fabs(b - c) < 1e-3)
     {
         printf("Triangle has all equal sides\n");
